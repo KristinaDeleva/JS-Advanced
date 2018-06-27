@@ -3,5 +3,5 @@
 
 |**Conditions**|**Link**| 
 |---|---|
-|Lab - Document Object Model   | <https://softuni.bg/trainings/resources/officedocument/31868/exercise-problem-descriptions-js-advanced-june-2018"> Link</a> |
+|Lab - Document Object Model   | <a href="<https://softuni.bg/trainings/resources/officedocument/31868/exercise-problem-descriptions-js-advanced-june-2018"> Link</a> |
 |Lab-DOM Manipulation  </a>| <a href="https://softuni.bg/trainings/resources/officedocument/31940/lab-problem-descriptions-js-advanced-june-2018"> Link</a> |
