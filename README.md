@@ -3,7 +3,7 @@
 
 |**Conditions**|**Link**| 
 |---|---|
-|**Lab - Document Object Model**   | <a href="file:///C:/Users/ASUS/Downloads/Conditions.pdf"> Link</a> |
+|**Lab - Document Object Model**   | <a href="https://softuni.bg/trainings/resources/officedocument/31868/exercise-problem-descriptions-js-advanced-june-2018"> Link</a> |
 |**Lab-DOM Manipulation**  </a>| <a href="https://softuni.bg/trainings/resources/officedocument/31940/lab-problem-descriptions-js-advanced-june-2018"> Link</a> |
 |**Excercise - DOM Manipulation**  </a>| <a href="https://softuni.bg/trainings/resources/officedocument/31987/exercise-problem-descriptions-js-advanced-june-2018"> Link</a> |
 |**Lab jQuery Library**  </a>| <a href="https://softuni.bg/trainings/resources/officedocument/32014/lab-problem-descriptions-js-advanced-june-2018"> Link</a> |
